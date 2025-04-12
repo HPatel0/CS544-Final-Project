@@ -1,0 +1,10 @@
+pandas>=1.5.0
+numpy>=1.22.0
+scikit-learn>=1.2.0
+sqlalchemy>=1.4.0
+psycopg2-binary>=2.9.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+jupyterlab>=3.4.0
+shap>=0.41.0
+python-dotenv>=1.0.0
